@@ -1,8 +1,10 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var Photo = DeviceNs.Photo;
 var LocationService = LocationNs.LocationService;
 var Employee = CompanyNs.Employee;
 var User = CompanyNs.User;
-//import * as _ from "lodash";
+//_.padStart("Hello TypeScript!", 20, " ");
 var user = new User("Tom");
 var company = "OrigonOil";
 var emploee = new Employee(company, "Jeck Richards");

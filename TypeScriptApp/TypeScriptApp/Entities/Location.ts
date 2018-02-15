@@ -1,5 +1,5 @@
 ﻿namespace LocationNs {
-  export   class CustomLocation implements LocationNs.ILocation {
+  export  class CustomLocation implements LocationNs.ILocation {
 
         constructor(longitude: number, latitude: number, locationName?: string) {
             this.longitude = longitude;

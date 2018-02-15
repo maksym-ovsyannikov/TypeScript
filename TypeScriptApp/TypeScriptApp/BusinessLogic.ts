@@ -1,11 +1,17 @@
-﻿import Photo = DeviceNs.Photo;
+﻿ 
+import Photo = DeviceNs.Photo;
 import LocationService = LocationNs.LocationService;
 import Employee = CompanyNs.Employee;
 import User = CompanyNs.User;
 //import * as _ from "lodash";
- 
+//import { debounce } from "lodash";
+//import * as _ from "lodash"; 
+//import * as debounce from "lodash/debounce"
+//import { debounce } from "lodash";
+//import debounce from 'lodash-es/debounce'
+import * as _ from "lodash";
 
- 
+//_.padStart("Hello TypeScript!", 20, " ");
 
 
 let user = new User("Tom");

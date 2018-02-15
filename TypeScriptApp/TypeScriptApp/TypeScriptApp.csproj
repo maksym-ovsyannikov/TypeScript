@@ -78,6 +78,8 @@
     <TypeScriptCompile Include="Entities\FreekClass.ts" />
     <TypeScriptCompile Include="Interfaces\Interfaces.ts" />
     <TypeScriptCompile Include="Entities\Location.ts" />
+    <TypeScriptCompile Include="node_modules\%40types\lodash-es\index.d.ts" />
+    <TypeScriptCompile Include="node_modules\%40types\lodash\index.d.ts" />
     <TypeScriptCompile Include="Services\LocationService.ts" />
     <TypeScriptCompile Include="Entities\Photo.ts" />
   </ItemGroup>
